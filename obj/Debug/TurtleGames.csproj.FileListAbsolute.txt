@@ -1,0 +1,8 @@
+D:\MyProj\TurtleTraining\TurtleGames\bin\Debug\TurtleGames.exe.config
+D:\MyProj\TurtleTraining\TurtleGames\bin\Debug\TurtleGames.exe
+D:\MyProj\TurtleTraining\TurtleGames\bin\Debug\TurtleGames.pdb
+D:\MyProj\TurtleTraining\TurtleGames\bin\Debug\SmallBasicLibrary.dll
+D:\MyProj\TurtleTraining\TurtleGames\bin\Debug\SmallBasicLibrary.xml
+D:\MyProj\TurtleTraining\TurtleGames\obj\Debug\TurtleGames.exe
+D:\MyProj\TurtleTraining\TurtleGames\obj\Debug\TurtleGames.pdb
+D:\MyProj\TurtleTraining\TurtleGames\obj\Debug\TurtleGames.csprojResolveAssemblyReference.cache
